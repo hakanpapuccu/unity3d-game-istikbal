@@ -1,3 +1,5 @@
+<img src="https://github.com/hakanpapuccu/unity3d-game-istikbal/blob/master/screenshot.PNG?raw=true">
+
 # İstikbal
 ## Oyun Hakkında
 İstikbal, biyolojik silahların savunma sanayiinin parçası olduğu distopik bir dünyada binbir zorlukla üretilen aşının korunması için görevlendirilen Cesur'un başından geçenleri anlatıyor.
