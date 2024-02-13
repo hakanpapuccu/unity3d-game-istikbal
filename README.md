@@ -15,5 +15,7 @@
 <li>Oyunu açarak sahnelerde eşleştirilmemiş ya da eksik assetler olup olmadığını kontrol edin.</li>
 </ul>
 
+## Lisans
+Bu projenin herhangi bir lisansı bulunmamaktadır. Projede kullanılan assetler Asset Store'da ücretsiz olarak kullanıma sunulan assetlerdir.
 
 
