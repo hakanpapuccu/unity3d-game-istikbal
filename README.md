@@ -15,6 +15,10 @@
 <li>Oyunu açarak sahnelerde eşleştirilmemiş ya da eksik assetler olup olmadığını kontrol edin.</li>
 </ul>
 
+## Geliştiriciler
+<a href="https://github.com/Htcars">Htcars</a> UI Tasarımı, assetler, ses efektleri, oyun senaryosu </br>
+<a href="https://github.com/hakanpapuccu">hakanpapuccu</a> uçuş ve fps mekaniği, düşmanlar, game manager script
+
 ## Lisans
 Bu projenin herhangi bir lisansı bulunmamaktadır. Projede kullanılan assetler Asset Store'da ücretsiz olarak kullanıma sunulan assetlerdir.
 
