@@ -17,7 +17,7 @@
 </ul>
 
 ## Geliştiriciler
-<a href="https://github.com/Htcars">Htcars</a> UI Tasarımı, assetler, ses efektleri, oyun senaryosu </br>
+<a href="https://github.com/Htcars">Htcars</a> UI Tasarımı, assetler, ses efektleri, oyun senaryosu, bug fix </br>
 <a href="https://github.com/hakanpapuccu">hakanpapuccu</a> uçuş ve fps mekaniği, düşmanlar, game manager script
 
 ## Lisans
