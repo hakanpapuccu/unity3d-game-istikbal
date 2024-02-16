@@ -17,7 +17,7 @@ public class Jet : MonoBehaviour
     }
     private void Update()
     {
-        if (Input.GetMouseButton(0) && rocketActivate)
+        if (Input.GetKeyDown(KeyCode.F) && rocketActivate)
         {
             StartCoroutine(Rocket());
         }

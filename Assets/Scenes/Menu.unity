@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1965,7 +1965,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\nFPS KONTROLLER\u0130\n\t\nHAREKET = W-A-S-D\nATE\u015E = Mouse L\n\u015EARJ\xD6R
     = R\n\n\nJET KONTROLLER\u0130\n\nP\u0130TCH = W - S\nROLL = A - D\nYAW = Q -
-    E\nTURBO = Lshift\nROKET = Mouse L\n\n\n"
+    E\nTURBO = Lshift\nROKET = F\n\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3366,7 +3366,33 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: HAKKINDA
+  m_text: "OYUN HAKKI NDA\n\nCOVID-19 pandemisinin \xFCst\xFCnden y\u0131llar ge\xE7mi\u015Ftir.
+    \xDClkemiz yeni bir vir\xFCs salg\u0131n\u0131yla kar\u015F\u0131 kar\u015F\u0131yad\u0131r.
+    Bu yeni vir\xFCs, \xF6ncekinden \xE7ok daha \xF6l\xFCmc\xFCl ve h\u0131zla yay\u0131lan
+    bir yap\u0131ya sahiptir. Gelen istihbaratlar neticesinde, bu vir\xFCs\xFCn bir
+    biyolojik silah olabilece\u011Fi d\xFC\u015F\xFCn\xFClmektedir. \r\n\r\n\xDClkemizi
+    bu salg\u0131ndan korumak i\xE7in Savunma Sanayi Ba\u015Fkanl\u0131\u011F\u0131'na
+    ba\u011Fl\u0131 bir birim olu\u015Fturulmu\u015Ftur. Kurulan bu birim, vir\xFCs\xFCn
+    yay\u0131l\u0131m\u0131 artmadan bir a\u015F\u0131 geli\u015Ftirmi\u015Ftir.
+    Ancak, birimin ba\u015Far\u0131l\u0131 \xE7al\u0131\u015Fmalar\u0131 baz\u0131
+    g\xFC\xE7ler taraf\u0131ndan yok edilmek istenmektedir. Bu y\xFCzden geli\u015Ftirilen
+    a\u015F\u0131, daha g\xFCvenli bir yere transfer edilmelidir. Transfer g\xFCn\xFC,
+    Ankara'daki a\u015F\u0131 merkezine bir sald\u0131r\u0131 ger\xE7ekle\u015Fir.
+    T\xFCrk Silahl\u0131 Kuvvetleri'nde y\u0131llar\u0131n\u0131 vermi\u015F, \xFClke
+    i\xE7in can\u0131n\u0131 hi\xE7e sayan kahraman askeri pilotlar\u0131m\u0131zdan
+    Cesur, a\u015F\u0131y\u0131 al\u0131p u\xE7a\u011F\u0131yla ka\xE7may\u0131 ba\u015Farm\u0131\u015Ft\u0131r.
+    \xDClkemizdeki darbe giri\u015Fiminde m\xFCcadele eden, farkl\u0131 \xFClkelerde
+    de savunma g\xF6revlerini yerine getiren askerimiz, bu ilac\u0131 Erzurum'daki
+    yeni kurulan gizli genel merkeze ula\u015Ft\u0131rmal\u0131d\u0131r.\r\n\r\nG\xF6rev
+    s\u0131ras\u0131nda T\xFCrk Hava Kuvvetleri'nde sava\u015F pilotu olarak g\xF6rev
+    yapan Gezeravc\u0131, d\xFC\u015Fman u\xE7aklar\u0131n\u0131n koordinatlar\u0131n\u0131
+    verecek ve a\u015F\u0131n\u0131n g\xFCvenli bir \u015Fekilde yeni merkeze ula\u015Fmas\u0131na
+    yard\u0131mc\u0131 olacakt\u0131r. Pilotumuz, bu transfer s\u0131ras\u0131nda
+    d\xFC\u015Fman u\xE7aklar\u0131n\u0131n engel olma giri\u015Fimleriyle kar\u015F\u0131la\u015Facak
+    ve onlar\u0131 yok ederek yolculu\u011Funu tamamlamak i\xE7in u\u011Fra\u015Facakt\u0131r.
+    \xC7\xFCnk\xFC g\xFCn bitmeden a\u015F\u0131lar, yeni merkezde \xE7o\u011Falt\u0131lmaya
+    ba\u015Flanmal\u0131d\u0131r. Her saniyenin \xFClkemiz i\xE7in bir tehdit olu\u015Fturdu\u011Funun
+    fark\u0131ndad\u0131r. \r\n\r\n\xC7\xFCnk\xFC \u0130ST\u0130KBAL G\xD6KLERDED\u0130R\u2026\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3393,8 +3419,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3429,7 +3455,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 135.80933, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -5184,10 +5210,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
