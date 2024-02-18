@@ -20,6 +20,10 @@
 <a href="https://github.com/Htcars">Htcars</a> UI Tasarımı, assetler, ses efektleri, oyun senaryosu, bug fix </br>
 <a href="https://github.com/hakanpapuccu">hakanpapuccu</a> uçuş ve fps mekaniği, düşmanlar, game manager script
 
+
+## Oynanış Videosu
+Oyunun oynanış videosunu şuradan izleyebilirsiniz: https://youtu.be/nXu_i5xHncY
+
 ## Lisans
 Bu projenin herhangi bir lisansı bulunmamaktadır. Projede kullanılan assetler Asset Store'da ücretsiz olarak kullanıma sunulan assetlerdir.
 
