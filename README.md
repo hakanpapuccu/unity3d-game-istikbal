@@ -13,7 +13,7 @@
 <code> git clone https://github.com/hakanpapuccu/unity3d-game-istikbal </code>
 <li>Unity Hub'ı açarak <b>Add</b> -> <b>Add project from disc </b> tıklayarak dizininize indirdiğiniz repoyu seçin. Oyunun kullandığı Unity versiyonu ile bilgisayarınızda yüklü olan Unity versiyonu farklı ise oyunun kullandığı Unity versiyonunu indirmenizi tavsiye ederiz.</li>
 <li>Oyunu açarak sahnelerde eşleştirilmemiş ya da eksik assetler olup olmadığını kontrol edin.</li>
-<li>Klonladığınız repo hiçbir şekilde düzgün çalışmıyorsa repoyu <a href="https://drive.google.com/file/d/1mdyMS_gxaBSYB_79njy7S9RYzRBU5aW2/view?usp=sharing">buradan</a> indirebilirsiniz.</li>
+<li>Klonladığınız repo hiçbir şekilde düzgün çalışmıyorsa repoyu <a href="https://drive.google.com/file/d/1Hjtyd9JmfZgy1MUlJ7lRAZk3a6G0y34Z/view?usp=sharing">buradan</a> indirebilirsiniz.</li>
 </ul>
 
 ## Geliştiriciler
